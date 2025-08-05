@@ -1,0 +1,335 @@
+abnormals delight
+AI Improvements
+Akashic Tome
+alexs caves
+alexs delight
+alexs mobs
+almanac
+almost unified
+Alt Origin Gui
+Ambient Sounds
+amendments
+Amplified Nether
+Animal Origins
+appleskin mc
+aquaculture delight
+Aquaculture
+aqupd caracal
+architectury
+ars additions
+ars creo
+ars elemental
+ars nouveau
+ars technica
+ashapi
+athen
+Attribute Fix Forge
+azurelibneo
+BadMobs
+balm
+Bamboo Everything
+BetterDogsXDoggyTalents Next
+Better Advancements
+better archeology
+better combat
+Biomes OPlenty
+blossom
+blueprint
+Boat Break Fix Universal
+bobber detector
+Bonsai Trees
+Book Fishing
+Botania
+Botanic Additions
+botarium
+Bountiful
+Brewin And Chewin
+buzzier bees
+caelus
+carryon
+catalogue
+cc tweaked
+cf
+chalk
+chatheads
+chococraft
+citadel
+clothconfig
+cobweb
+Code Chicken Lib
+cofh core
+collective
+compact machines
+configure
+Connector
+Connector Extras
+Controllin
+Corgilib
+corouti
+crafting tweak
+Craft Tweaker
+create thermal
+create
+create addition
+create chunkloading
+Creative Core
+cristel lib
+critters and companions
+Croptopia
+CTM
+cupboard
+curios
+Cyclic
+decorative block
+deeperdarker
+Delightful
+Doggy Talents Next
+domestication innovation
+DTN Palette Of Paws
+Dungeons Arise
+easy villager
+ecologic
+Edivad Lib
+elevatorid lex
+elytras lot
+embeddium
+embeddium plus
+Ender IO
+enders delight
+Ender Storage
+Ephero Lib
+every comp
+Explorers Compass
+exposure
+extra compat
+Extra Disks
+Extra Storage
+fabric api
+Falling leaves
+farmers cutting biomes oplenty
+farmers cutting oh the biomes weve gone
+Farmers Delight
+farmers respite
+Farmers Structures
+fast ipping
+Faster Ladder Climbing
+Fast Furnace
+Fastload Red
+ferritecore
+findme
+fish of thieves
+fishermens trap
+flib
+flourish
+framework
+friends and foes
+Fruitful Fun
+ftb essentials
+ftb library
+ftb quests
+ftb teams
+ftb ultimine
+ftbx modcompat
+fusion
+geckolib
+GlitchCore
+goblin trader
+golems are friends
+gpu mem leak fix
+HammerLib
+harvest with ease
+hexcasting
+ImmediatelyFastForge
+immersive melodies
+industrial foregoing
+inline
+Instrumental Mob
+iron chest
+iron furnaces
+item filters
+Jade Forge
+jei
+jei integration
+Just Enough Professions
+Just Enough Resources
+Kambrik
+Kawaii Dishes
+KiwiForge
+konkrete MC
+kotlin for all
+Krypton Red
+kubejs
+let fish love
+letsdo API
+letsdo applewood
+letsdo bakery
+letsdo beachparty
+letsdo bloomingnature
+letsdo camping
+letsdo candlelight
+letsdo farmandcharm
+letsdo furniture
+letsdo herbalbrews
+letsdo meadow
+letsdo nethervinery
+letsdo vinery
+letsdo wildernature
+libIPN
+libnonymous
+lodestone
+logprot
+long NBT Killer
+lootjourna
+lootj
+lootr
+luggage
+LycheeForge
+mahoutsukaiv
+malum
+Mantle
+macaws bridges
+macaws doors
+macaws fences
+macaws holidays
+macaws lights
+macaws paintings
+macaws paths
+macaws roofs
+macaws trapdoors
+macaws windows
+Medieval Origins Revival
+melodyMC
+mob grinding utils
+Mobs Of Sins
+modernfix
+moonlight
+More Mob Griefing Options
+Mouse Tweaks
+mowzies mobs
+mushroom origins
+Mushroom Quest
+mutil
+My Server Is Compatible
+mystical oak tree
+naturalist
+NaturesCompass
+NecronomiconForge
+NekosEnchantedBooks
+nethersdelight
+nocube's villagers sell animals
+observable
+oculusm
+Oh The Biomes Weve Gone Forge
+Oh The Trees Youll Grow
+ojs rpg origins
+one piece origins
+origins classes
+originall
+origins plus plus
+over loaded armor bar
+packetfixer
+pams harvestcraft crops
+pams harvestcraft foodcore
+pams harvestcraft foodextended
+pams harvestcraft trees
+Paraglider
+Patchouli
+pa thundergates
+paucal
+Pehkui
+pipe
+Placebo
+Platform
+player animation librc
+plushies
+polymorph
+Powah
+PSI
+Psionic utilities
+Puzzles Lib
+Quark
+Rats
+realm rpg skeletons
+rechiseled chipped
+rechiseled
+refined polymorph
+refined storage
+refined storage addons
+Regions Unexplored
+reliquary
+resourceful config
+resourcefullib
+rhinobuild
+Ribbits
+Roots Classic
+Searchable
+serialization is bad
+servercore
+Shield Expansion
+simply swords
+skinlayers
+sleepy hollows
+slice and dice
+SmartBrainLib
+smoothboot(reloaded)
+smooth chunk
+Snad
+Sniffer
+snuffles
+solcarrot
+sonsofsins
+sophisticated backpacks
+sophisticatedcore
+soulfire
+sound physics remastered
+Spartan Shields
+Steam Rails
+Storage Drawers
+Structory
+structure essentials
+supermartijn configlib
+supermartijn corelib
+supplementaries
+tact
+Tinkers Construct
+temporal api
+TerraBlender
+Terralith
+tetra
+thermal cultivation
+thermal dynamics
+thermal expansion
+thermal foundation
+thermal innovation
+thermal integration
+tidal towns
+titanium
+Toast Control
+Tool Belt
+too many glyphs
+torchmaster
+Totemic
+Towns and Towers
+Trample Stopper
+transmog
+trash slot
+travelers backpack
+Travelers Titles
+TreeChop fixed
+trenzalore
+Trials
+ubes delight
+vanilla backport
+Variant Crafting Tables
+villager names
+voicechat
+watu
+whisper woods
+Xaeros Minimap Forge
+Xaeros World Map Forge
+xerca paint
+YetAnotherConfigLib
+YungsApiForge
+Yungs Better Mineshafts
+Yungs Bridges
+Zeta
